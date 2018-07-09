@@ -8,6 +8,6 @@
 # In this change method, create columns with the correct names and
 # value types according to the spec
 
-class CostumeStore < ActiveRecord::Migration[5.1]
+class CreateCostumes < ActiveRecord::Migration[5.1]
 
 end
