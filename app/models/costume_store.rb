@@ -1,1 +1,5 @@
-class CostumeStore < ActiveRecord::Migration[5.1]
+# Create your CostumeStore class here
+
+class CostumeStore
+
+end
